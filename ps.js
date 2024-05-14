@@ -5,3 +5,7 @@ function showName(name) {
 function showAddress(addr) {
     return addr;
 }
+
+function showGrades(grades) {
+    return grades;
+}
